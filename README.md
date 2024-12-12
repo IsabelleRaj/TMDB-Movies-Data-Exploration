@@ -8,6 +8,23 @@
 4. [Data Source](#data-source)
 5. [Acknowledgments](#acknowledgement)
 
+<table>
+<tr>
+<td>
+<img src="https://github.com/user-attachments/assets/efe52466-9ecf-4535-b93e-1ae74feb6d55" alt="cinema" width="150"/>
+</td>
+<td>
+<ul>
+  <li><a href="#project-description">Project Description</a></li>
+  <li><a href="#installation">Installation</a></li>
+  <li><a href="#usage">Usage</a></li>
+  <li><a href="#data-source">Data Source</a></li>
+  <li><a href="#acknowledgement">Acknowledgments</a></li>
+</ul>
+</td>
+</tr>
+</table>
+
 ## Project Description
 This project conducts exploratory data analysis on the TMDB movies dataset, using Python and its data manipulation and visualisation libraries. 
 
