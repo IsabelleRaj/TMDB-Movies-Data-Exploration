@@ -1,4 +1,6 @@
 # TMDB Movies Data Exploration 🎥
+<img src="https://github.com/user-attachments/assets/efe52466-9ecf-4535-b93e-1ae74feb6d55" alt="cinema" width="300"/>
+
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Installation](#installation)
@@ -33,5 +35,3 @@ The data was downloaded from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-
 
 ## Acknowledgments
 This project was written by me [(@IsabelleRaj)](https://github.com/IsabelleRaj), as part of the Digital Futures Academy. 
-
-<img src="https://github.com/user-attachments/assets/efe52466-9ecf-4535-b93e-1ae74feb6d55" alt="cinema" width="300"/>
