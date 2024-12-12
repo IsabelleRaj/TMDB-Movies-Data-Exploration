@@ -1,5 +1,5 @@
 # TMDB Movies Data Exploration 🎥
-![cinema](https://github.com/user-attachments/assets/efe52466-9ecf-4535-b93e-1ae74feb6d55)
+<img src="https://github.com/user-attachments/assets/efe52466-9ecf-4535-b93e-1ae74feb6d55" alt="cinema" width="400"/>
 
 ## Table of Contents
 1. [Project Description](#project-description)
