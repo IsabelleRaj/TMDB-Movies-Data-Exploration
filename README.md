@@ -1,7 +1,4 @@
 # TMDB Movies Data Exploration 🎥
-![TMDB Logo](https://github.com/user-attachments/assets/d28a572f-0c29-46b1-b56d-36723e002a06)
-
-*Logo courtesy of [TMDB](https://www.themoviedb.org/). This project uses their dataset but is not endorsed or certified by TMDB.*
 
 ## Table of Contents
 1. [Project Description](#project-description)
