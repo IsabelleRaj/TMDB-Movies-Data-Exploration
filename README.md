@@ -1,4 +1,5 @@
 # TMDB Movies Data Exploration 🎥
+![cinema](https://github.com/user-attachments/assets/efe52466-9ecf-4535-b93e-1ae74feb6d55)
 
 ## Table of Contents
 1. [Project Description](#project-description)
@@ -30,7 +31,7 @@ The project focuses on insights such as the most successful production companies
 ## Data Source
 The data was downloaded from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata), though it was originally sourced from the TMDB website, using their [official API](https://developer.themoviedb.org/docs/getting-started). 
 
-*Ensure you have the dataset downloaded and placed in the appropriate directory*
+*Ensure you have the dataset downloaded and placed in the appropriate directory.*
 
 ## Acknowledgments
 This project was written by me [(@IsabelleRaj)](https://github.com/IsabelleRaj), as part of the Digital Futures Academy. 
