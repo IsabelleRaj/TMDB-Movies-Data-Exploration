@@ -5,9 +5,12 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Data Source](#data-source)
+5. [Acknowledgments](#acknowledgement)
 
 ## Project Description
-This project conducts exploratory data analysis on the TMDB movies dataset, using Python and its data manipulation and visualisation libraries. The project focuses on insights such as the most successful production companies by movie count and total revenue, and a comparison of the most and least popular movies. 
+This project conducts exploratory data analysis on the TMDB movies dataset, using Python and its data manipulation and visualisation libraries. 
+
+The project focuses on insights such as the most successful production companies by movie count and total revenue, and a comparison of the most and least popular movies. 
 
 ## Installation
 1. Open your command prompt.
@@ -28,3 +31,6 @@ This project conducts exploratory data analysis on the TMDB movies dataset, usin
 The data was downloaded from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata), though it was originally sourced from the TMDB website, using their [official API](https://developer.themoviedb.org/docs/getting-started). 
 
 *Ensure you have the dataset downloaded and placed in the appropriate directory*
+
+## Acknowledgments
+This project was written by me [(@IsabelleRaj)](https://github.com/IsabelleRaj), as part of the Digital Futures Academy. 
