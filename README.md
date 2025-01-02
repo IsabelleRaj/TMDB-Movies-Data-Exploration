@@ -1,5 +1,4 @@
 # TMDB Movies Data Exploration 🎥
-<img src="https://github.com/user-attachments/assets/efe52466-9ecf-4535-b93e-1ae74feb6d55" alt="cinema" width="300"/>
 
 ## Table of Contents
 1. [Project Description](#project-description)
@@ -12,6 +11,8 @@
 This project conducts exploratory data analysis on the TMDB movies dataset, using Python and its data manipulation and visualisation libraries. 
 
 The project focuses on insights such as the most successful production companies by movie count and total revenue, and a comparison of the most and least popular movies. 
+
+<img src="https://github.com/user-attachments/assets/efe52466-9ecf-4535-b93e-1ae74feb6d55" alt="cinema" width="300"/>
 
 ## Installation
 1. Open your command prompt.
